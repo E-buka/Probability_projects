@@ -1,2 +1,3 @@
 # Probability_projects
-projects on probability and hypothesis testing 
+This project focuses on probability and hypothesis testing 
+
